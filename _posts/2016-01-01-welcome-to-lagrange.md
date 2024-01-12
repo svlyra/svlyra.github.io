@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Welcome to Lyra!"
+author: "Patrick McCormack"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: lyra-at-sunset-oceanside-harbor.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Lyra is a Garcia Exploration 45. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ## Getting Started
 
